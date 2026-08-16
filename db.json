@@ -1,69 +1,215 @@
 {
-    "pensamentos": [
-      {
-        "id": "2a56",
-        "conteudo": "Vc faz TI? Conserta meu celular!",
-        "autoria": "Grupo da família"
-      },
-      {
-        "id": "4c7d",
-        "conteudo": "Da vida reclama, mas sem ela não vive!",
-        "autoria": "Mestre Yoda"
-      },
-      {
-        "id": "5b8a",
-        "conteudo": "Na minha máquina funciona!",
-        "autoria": "Dev"
-      },
-      {
-        "id": "68uy",
-        "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
-        "autoria": "Chaves"
-      },
-      {
-        "id": "b807",
-        "conteudo": "Melhor professor, o fracasso é!",
-        "autoria": "Mestre Yoda"
-      },
-      {
-        "id": "9f3c",
-        "conteudo": "Você não é todo mundo!",
-        "autoria": "Mãe"
-      },
-      {
-        "id": "6a2b",
-        "conteudo": "Foi sem querer querendo!",
-        "autoria": "Chaves"
-      },
-      {
-        "id": "7e2a",
-        "conteudo": "Que a força esteja com você!",
-        "autoria": "Mestre Yoda"
-      },
-      {
-        "id": "5c8f",
-        "conteudo": "Resolver o bug não consegue? Esfriar a cabeça vc deve.",
-        "autoria": "Mestre Yoda"
-      },
-      {
-        "id": "2d6e",
-        "conteudo": "Não faça drama, faça café! :)",
-        "autoria": "Dev"
-      },
-      {
-        "id": "3f1a",
-        "conteudo": "Conserta minha impressora?",
-        "autoria": "Grupo da família"
-      },
-      {
-        "id": "8b4c",
-        "conteudo": "A vingança nunca é plena... mata a alma e a envenena...",
-        "autoria": "Seu Madruga"
-      },
-      {
-        "id": "4d2e",
-        "conteudo": "Se eu for aí e achar, eu esfrego na sua cara!",
-        "autoria": "Mãe"
-      }
-    ]
-  }
+  "pensamentos": [
+    {
+      "id": "2a56",
+      "conteudo": "Vc faz TI? Conserta meu celular!",
+      "autoria": "Grupo da família"
+    },
+    {
+      "id": "4c7d",
+      "conteudo": "Da vida reclama, mas sem ela não vive!",
+      "autoria": "Mestre Yoda"
+    },
+    {
+      "id": "5b8a",
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev"
+    },
+    {
+      "id": "68uy",
+      "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
+      "autoria": "Chaves"
+    },
+    {
+      "id": "b807",
+      "conteudo": "Melhor professor, o fracasso é!",
+      "autoria": "Mestre Yoda"
+    },
+    {
+      "id": "9f3c",
+      "conteudo": "Você não é todo mundo!",
+      "autoria": "Mãe"
+    },
+    {
+      "id": "6a2b",
+      "conteudo": "Foi sem querer querendo!",
+      "autoria": "Chaves"
+    },
+    {
+      "id": "7e2a",
+      "conteudo": "Que a força esteja com você!",
+      "autoria": "Mestre Yoda"
+    },
+    {
+      "id": "5c8f",
+      "conteudo": "Resolver o bug não consegue? Esfriar a cabeça vc deve.",
+      "autoria": "Mestre Yoda"
+    },
+    {
+      "id": "2d6e",
+      "conteudo": "Não faça drama, faça café! :)",
+      "autoria": "Dev"
+    },
+    {
+      "id": "3f1a",
+      "conteudo": "Conserta minha impressora?",
+      "autoria": "Grupo da família"
+    },
+    {
+      "id": "8b4c",
+      "conteudo": "A vingança nunca é plena... mata a alma e a envenena...",
+      "autoria": "Seu Madruga"
+    },
+    {
+      "id": "4d2e",
+      "conteudo": "Se eu for aí e achar, eu esfrego na sua cara!",
+      "autoria": "Mãe"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "mYao3SNgfxA"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "XQYbYYZcZs0"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "ytO4qDTsi_o"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "w_LiTHMCcdc"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "sf_L33QDEDE"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "xvj3s0fOLQs"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "5gsf2ugIzoc"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "wRLOx_hVAhU"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "MvUP1IVn9jg"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "4L_I5WUQupo"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "-XA4gvmJzyw"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "9i75a0bhzEU"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "4Luw8lbJkpA"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "g_jDUrLU064"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "_oV7ru2nJv4"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "1iZDzrjOBKM"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "9dD-C6TvBKA"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "uV9hBDrlxfU"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "f8LWZ5tMJmQ"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "y9mqdodxxaY"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "RRfuQC4VUzo"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "7q74zkCrAZI"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "1w6w_ZGLJ5U"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "tMFQ4V4--r0"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "sOwz8sXZXwg"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "ExLlvcmvOc4"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "7iJXusiU1Ls"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "hNyRU9ZKhV4"
+    },
+    {
+      "conteudo": "          Ame sua familia acima de tudo",
+      "autoria": "mateus",
+      "id": "kHKQ7XWrYPs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
