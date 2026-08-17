@@ -21,7 +21,13 @@ async function manipularSubmissaoForm (event) {
 
     try {
 
-        await api.cadastrarPensamento({ conteudo, autoria });
+        if (id) {
+            await api.editarPensamento({id, conteudo, autoria});
+        }
+        else {
+            await api.cadastrarPensamento({ conteudo, autoria });
+
+        }
         ui.renderizarPesamentos();
 
     } catch (error) {
