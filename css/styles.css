@@ -270,8 +270,12 @@ h2, h3 {
   cursor: pointer;
   padding: 8px;
   margin-left: 8px;
+  transition: 0.3s;
 }
 
+.botao-editar:hover, .botao-excluir:hover {
+  transform: translateY(-5px);
+} 
 .botao-editar img, .botao-excluir img {
   width: 20px;
   height: 20px;
